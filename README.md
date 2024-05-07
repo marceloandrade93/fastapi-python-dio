@@ -3,6 +3,8 @@
 
 A script to run fastapi directly from Google Colab, getting an .xlsx from my drive to read it back directly in the browser via ngrok.
 
+[Access .ipynb from Colab here](https://colab.research.google.com/drive/11yN-j6fZ-2d4G1E5F7zoj8EVNPJ_ZvqS?usp=drive_link)
+
 ## Informations
 
 The only thing you need to run directly from Colab, as it stands, is your own **authtoken** from [ngrok](https://ngrok.com/):
